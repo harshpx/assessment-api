@@ -34,3 +34,8 @@ npm run dev
 3. For assessments:
     * GET: /api/assessments
     * POST: /api/assessments
+
+
+
+### ER diagram (Schema representation):
+<img src="./assets/ER.png" alt="image not available">
